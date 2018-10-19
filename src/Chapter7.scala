@@ -16,4 +16,6 @@ object Chapter7 extends App{
 
   println("Problem 2")
 
+  println("Problem 3")
+
 }
